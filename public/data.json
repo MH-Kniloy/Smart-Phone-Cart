@@ -3,7 +3,7 @@
       "id": 1,
       "brand": "Apple",
       "model": "iPhone 15 Pro",
-      "image": "https://example.com/images/iphone15pro.jpg",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693009279096",
       "release_year": 2023,
       "display": {
         "size": 6.1,
@@ -20,7 +20,7 @@
       "id": 2,
       "brand": "Samsung",
       "model": "Galaxy S23 Ultra",
-      "image": "https://example.com/images/s23ultra.jpg",
+      "image": "https://images.samsung.com/us/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-kv.jpg",
       "release_year": 2023,
       "display": {
         "size": 6.8,
@@ -37,7 +37,7 @@
       "id": 3,
       "brand": "Google",
       "model": "Pixel 8 Pro",
-      "image": "https://example.com/images/pixel8pro.jpg",
+      "image": "https://store.google.com/magazine/catalog/prod/images/og_image/Google-Pixel8-Pro.jpg",
       "release_year": 2023,
       "display": {
         "size": 6.7,
@@ -54,7 +54,7 @@
       "id": 4,
       "brand": "OnePlus",
       "model": "11 5G",
-      "image": "https://example.com/images/oneplus11.jpg",
+      "image": "https://image01.oneplus.net/ebp/202301/10/1-M00-3A-3D-rB8CLGNwGzOARJ1kAAV5b8XQJ5w277.png",
       "release_year": 2023,
       "display": {
         "size": 6.7,
@@ -71,7 +71,7 @@
       "id": 5,
       "brand": "Xiaomi",
       "model": "13 Pro",
-      "image": "https://example.com/images/xiaomi13pro.jpg",
+      "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-13-pro/specs-header.jpg",
       "release_year": 2023,
       "display": {
         "size": 6.73,
@@ -88,7 +88,7 @@
       "id": 6,
       "brand": "Apple",
       "model": "iPhone 14",
-      "image": "https://example.com/images/iphone14.jpg",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205804",
       "release_year": 2022,
       "display": {
         "size": 6.1,
@@ -105,7 +105,7 @@
       "id": 7,
       "brand": "Samsung",
       "model": "Galaxy Z Fold 5",
-      "image": "https://example.com/images/zfold5.jpg",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/us/2307/gallery/us-galaxy-z-fold5-f946-467066-sm-f946uzkaxaa-536971849?$650_519_PNG$",
       "release_year": 2023,
       "display": {
         "size": {
@@ -128,7 +128,7 @@
       "id": 8,
       "brand": "Motorola",
       "model": "Edge 40 Pro",
-      "image": "https://example.com/images/motoedge40.jpg",
+      "image": "https://www.motorola.com/static/images/product/motorola-edge-plus-2023/global-header/edge-plus-2023-rendered-1.png",
       "release_year": 2023,
       "display": {
         "size": 6.67,
@@ -145,7 +145,7 @@
       "id": 9,
       "brand": "Nothing",
       "model": "Phone (2)",
-      "image": "https://example.com/images/nothingphone2.jpg",
+      "image": "https://www.nothing.tech/cdn/shop/files/NothingPhone2_Black_Hero_3000x3000.jpg?v=1688983848",
       "release_year": 2023,
       "display": {
         "size": 6.7,
@@ -162,7 +162,7 @@
       "id": 10,
       "brand": "Asus",
       "model": "ROG Phone 7 Ultimate",
-      "image": "https://example.com/images/rogphone7.jpg",
+      "image": "https://dlcdnrog.asus.com/rog/media/1679881787070.jpg",
       "release_year": 2023,
       "display": {
         "size": 6.78,
@@ -179,7 +179,7 @@
       "id": 11,
       "brand": "Oppo",
       "model": "Find X6 Pro",
-      "image": "https://example.com/images/oppox6pro.jpg",
+      "image": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x6-pro/navigation/Find-X6-Pro-navigation-black-v2.png",
       "release_year": 2023,
       "display": {
         "size": 6.82,
@@ -196,7 +196,7 @@
       "id": 12,
       "brand": "Vivo",
       "model": "X90 Pro+",
-      "image": "https://example.com/images/vivox90pro.jpg",
+      "image": "https://www.vivo.com/content/dam/vivo/in/v3-2/product/x90-pro-plus/features/x90-pro-plus-black.png",
       "release_year": 2023,
       "display": {
         "size": 6.78,
@@ -213,7 +213,7 @@
       "id": 13,
       "brand": "Realme",
       "model": "GT 3",
-      "image": "https://example.com/images/realmeGT3.jpg",
+      "image": "https://image01.realme.net/general/20230308/1678267218134.png",
       "release_year": 2023,
       "display": {
         "size": 6.74,
@@ -230,7 +230,7 @@
       "id": 14,
       "brand": "Honor",
       "model": "Magic5 Pro",
-      "image": "https://example.com/images/honormagic5.jpg",
+      "image": "https://www.hihonor.com/content/dam/honor/in/product/magic5-pro/images/overview/device-magic5-pro.png",
       "release_year": 2023,
       "display": {
         "size": 6.81,
@@ -247,7 +247,7 @@
       "id": 15,
       "brand": "Sony",
       "model": "Xperia 1 V",
-      "image": "https://example.com/images/xperia1v.jpg",
+      "image": "https://www.sony.com/image/4f4d3c3b5a1b5a1b5a1b5a1b5a1b5a1b?fmt=pjpeg&wid=1200&hei=630&bgcolor=FFFFFF",
       "release_year": 2023,
       "display": {
         "size": 6.5,
@@ -264,7 +264,7 @@
       "id": 16,
       "brand": "Apple",
       "model": "iPhone SE (2022)",
-      "image": "https://example.com/images/iphonese.jpg",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1656648332709",
       "release_year": 2022,
       "display": {
         "size": 4.7,
@@ -281,7 +281,7 @@
       "id": 17,
       "brand": "Samsung",
       "model": "Galaxy A54 5G",
-      "image": "https://example.com/images/a54.jpg",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvginu/gallery/in-galaxy-a54-5g-sm-a546-sm-a546elvginu-535993999?$650_519_PNG$",
       "release_year": 2023,
       "display": {
         "size": 6.4,
@@ -298,7 +298,7 @@
       "id": 18,
       "brand": "Google",
       "model": "Pixel 7a",
-      "image": "https://example.com/images/pixel7a.jpg",
+      "image": "https://store.google.com/magazine/catalog/prod/images/og_image/Google-Pixel7a.jpg",
       "release_year": 2023,
       "display": {
         "size": 6.1,
@@ -315,7 +315,7 @@
       "id": 19,
       "brand": "OnePlus",
       "model": "Nord 3 5G",
-      "image": "https://example.com/images/nord3.jpg",
+      "image": "https://image01.oneplus.net/ebp/202306/15/1-M00-4D-5C-rB8CLGSUY0GAB4bIAAVU1tQ5Q6Q929.png",
       "release_year": 2023,
       "display": {
         "size": 6.74,
@@ -332,7 +332,7 @@
       "id": 20,
       "brand": "Xiaomi",
       "model": "Redmi Note 12 Pro+",
-      "image": "https://example.com/images/redminote12pro.jpg",
+      "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-12-pro-plus-5g/specs-header.jpg",
       "release_year": 2023,
       "display": {
         "size": 6.67,

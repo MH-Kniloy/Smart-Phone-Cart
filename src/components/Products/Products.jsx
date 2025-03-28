@@ -8,7 +8,7 @@ const Products = ({ productsPromise, }) => {
   return( 
   
   <>
-    <div>
+    <div className='grid'>
 
      {
         productData.map(product=><Product key={product.id} product={product}/>)
