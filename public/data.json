@@ -1,0 +1,349 @@
+ [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "image": "https://example.com/images/iphone15pro.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.1,
+        "type": "Super Retina XDR OLED",
+        "resolution": "2556x1179"
+      },
+      "processor": "A17 Pro",
+      "ram": 8,
+      "storage": 128,
+      "battery": 3274,
+      "price": 999
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "image": "https://example.com/images/s23ultra.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.8,
+        "type": "Dynamic AMOLED 2X",
+        "resolution": "3088x1440"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 256,
+      "battery": 5000,
+      "price": 1199
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "image": "https://example.com/images/pixel8pro.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.7,
+        "type": "LTPO OLED",
+        "resolution": "3120x1440"
+      },
+      "processor": "Google Tensor G3",
+      "ram": 12,
+      "storage": 128,
+      "battery": 5050,
+      "price": 999
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "11 5G",
+      "image": "https://example.com/images/oneplus11.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.7,
+        "type": "Fluid AMOLED",
+        "resolution": "3216x1440"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 8,
+      "storage": 128,
+      "battery": 5000,
+      "price": 699
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "13 Pro",
+      "image": "https://example.com/images/xiaomi13pro.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.73,
+        "type": "AMOLED",
+        "resolution": "3200x1440"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 256,
+      "battery": 4820,
+      "price": 999
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "image": "https://example.com/images/iphone14.jpg",
+      "release_year": 2022,
+      "display": {
+        "size": 6.1,
+        "type": "Super Retina XDR OLED",
+        "resolution": "2532x1170"
+      },
+      "processor": "A15 Bionic",
+      "ram": 6,
+      "storage": 128,
+      "battery": 3279,
+      "price": 799
+    },
+    {
+      "id": 7,
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 5",
+      "image": "https://example.com/images/zfold5.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": {
+          "main": 7.6,
+          "cover": 6.2
+        },
+        "type": "Dynamic AMOLED 2X",
+        "resolution": {
+          "main": "2176x1812",
+          "cover": "2316x904"
+        }
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 256,
+      "battery": 4400,
+      "price": 1799
+    },
+    {
+      "id": 8,
+      "brand": "Motorola",
+      "model": "Edge 40 Pro",
+      "image": "https://example.com/images/motoedge40.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.67,
+        "type": "pOLED",
+        "resolution": "2400x1080"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 512,
+      "battery": 4600,
+      "price": 899
+    },
+    {
+      "id": 9,
+      "brand": "Nothing",
+      "model": "Phone (2)",
+      "image": "https://example.com/images/nothingphone2.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.7,
+        "type": "LTPO OLED",
+        "resolution": "2412x1080"
+      },
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": 12,
+      "storage": 256,
+      "battery": 4700,
+      "price": 599
+    },
+    {
+      "id": 10,
+      "brand": "Asus",
+      "model": "ROG Phone 7 Ultimate",
+      "image": "https://example.com/images/rogphone7.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.78,
+        "type": "AMOLED",
+        "resolution": "2448x1080"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 16,
+      "storage": 512,
+      "battery": 6000,
+      "price": 1399
+    },
+    {
+      "id": 11,
+      "brand": "Oppo",
+      "model": "Find X6 Pro",
+      "image": "https://example.com/images/oppox6pro.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.82,
+        "type": "LTPO AMOLED",
+        "resolution": "3168x1440"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 256,
+      "battery": 5000,
+      "price": 1199
+    },
+    {
+      "id": 12,
+      "brand": "Vivo",
+      "model": "X90 Pro+",
+      "image": "https://example.com/images/vivox90pro.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.78,
+        "type": "LTPO AMOLED",
+        "resolution": "3200x1440"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 512,
+      "battery": 4700,
+      "price": 1299
+    },
+    {
+      "id": 13,
+      "brand": "Realme",
+      "model": "GT 3",
+      "image": "https://example.com/images/realmeGT3.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.74,
+        "type": "AMOLED",
+        "resolution": "2772x1240"
+      },
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": 16,
+      "storage": 1024,
+      "battery": 4600,
+      "price": 649
+    },
+    {
+      "id": 14,
+      "brand": "Honor",
+      "model": "Magic5 Pro",
+      "image": "https://example.com/images/honormagic5.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.81,
+        "type": "LTPO OLED",
+        "resolution": "2848x1312"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 512,
+      "battery": 5100,
+      "price": 1199
+    },
+    {
+      "id": 15,
+      "brand": "Sony",
+      "model": "Xperia 1 V",
+      "image": "https://example.com/images/xperia1v.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.5,
+        "type": "OLED",
+        "resolution": "3840x1644"
+      },
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": 12,
+      "storage": 256,
+      "battery": 5000,
+      "price": 1399
+    },
+    {
+      "id": 16,
+      "brand": "Apple",
+      "model": "iPhone SE (2022)",
+      "image": "https://example.com/images/iphonese.jpg",
+      "release_year": 2022,
+      "display": {
+        "size": 4.7,
+        "type": "Retina IPS LCD",
+        "resolution": "1334x750"
+      },
+      "processor": "A15 Bionic",
+      "ram": 4,
+      "storage": 64,
+      "battery": 2018,
+      "price": 429
+    },
+    {
+      "id": 17,
+      "brand": "Samsung",
+      "model": "Galaxy A54 5G",
+      "image": "https://example.com/images/a54.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.4,
+        "type": "Super AMOLED",
+        "resolution": "2340x1080"
+      },
+      "processor": "Exynos 1380",
+      "ram": 8,
+      "storage": 128,
+      "battery": 5000,
+      "price": 449
+    },
+    {
+      "id": 18,
+      "brand": "Google",
+      "model": "Pixel 7a",
+      "image": "https://example.com/images/pixel7a.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.1,
+        "type": "OLED",
+        "resolution": "2400x1080"
+      },
+      "processor": "Google Tensor G2",
+      "ram": 8,
+      "storage": 128,
+      "battery": 4385,
+      "price": 499
+    },
+    {
+      "id": 19,
+      "brand": "OnePlus",
+      "model": "Nord 3 5G",
+      "image": "https://example.com/images/nord3.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.74,
+        "type": "Fluid AMOLED",
+        "resolution": "2772x1240"
+      },
+      "processor": "Dimensity 9000",
+      "ram": 16,
+      "storage": 256,
+      "battery": 5000,
+      "price": 499
+    },
+    {
+      "id": 20,
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12 Pro+",
+      "image": "https://example.com/images/redminote12pro.jpg",
+      "release_year": 2023,
+      "display": {
+        "size": 6.67,
+        "type": "AMOLED",
+        "resolution": "2712x1220"
+      },
+      "processor": "Dimensity 1080",
+      "ram": 8,
+      "storage": 256,
+      "battery": 5000,
+      "price": 399
+    }
+  ]
+
