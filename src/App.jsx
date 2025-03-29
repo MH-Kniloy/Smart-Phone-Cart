@@ -4,7 +4,7 @@ import Products from './components/Products/Products'
 
 function App() {
 
-  const productsPromise = fetch("../public/data.json").then(res=>res.json())
+  const productsPromise = fetch("/data.json").then(res=>res.json())
 
   
 
